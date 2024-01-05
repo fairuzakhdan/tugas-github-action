@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: fairuzakhdan/tugas-action:latest
+          tags: fairuz/tugas-action:latest
